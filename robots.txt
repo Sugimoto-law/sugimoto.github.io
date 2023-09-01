@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /feature/
+Disallow: /case-studies/
+Disallow: /reviews/
+Disallow: /services-1/
+Disallow: /services-2/
+Disallow: /topic/
+Disallow: /solution/
+Disallow: /blog/
+Sitemap: https://sugimotovisa.com/sitemap.xml
+Crawl-delay: 5
