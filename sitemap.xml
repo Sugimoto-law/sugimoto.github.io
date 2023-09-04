@@ -1,503 +1,297 @@
-<?xml version="1.0" encoding="utf-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!--  created with sitemap generator https://octopus.do  -->
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-    <url>
-        <loc>https://sugimotovisa.com</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/index.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/about.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/blog.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/contact.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/consultation.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/pr/investment-in-canada.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/pr/startup-visa.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/pr/self-employed.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/pr/entrepreneurship-canada-immigration.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/pr/canada-express-entry.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/pr/canada-express-entry</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/pr/canada-express-entry/federal-skilled-worker.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/pr/canada-express-entry/federal-skilled-trades.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/pr/canada-express-entry/canadian-experience-class.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/pr/canada-express-entry/federal-skilled-worker</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/pr/canada-express-entry/canadian-experience-class</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/pr/canada-express-entry/federal-skilled-trades</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/pr/pnp.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/pr/pnp/bcpnp-skills-immigration.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/pr/entrepreneurship-canada-immigration</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/pr/investment-in-canada</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/pr/startup-visa</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/pr/self-employed</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/work</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/work/ict.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/work/c11-work-permit.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/work/significant-benefit-work-permit.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/work/imp.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/work/buy-a-business.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/work/register-your-company-in-canada.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/work/pgwp.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/work/iran-open-work-permit.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/work/lmia-based-work-permits.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/work/NOC.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/work/imp-employer-compliance.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/work/work-without-work-permit.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/work/imp</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/work/lmia-based-work-permits</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/work/register-your-company-in-canada</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/work/pgwp</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/work/iran-open-work-permit</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/immigrate-to-canada</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/immigrate-to-canada/business-visitors.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/immigrate-to-canada/gcms-notes.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/immigrate-to-canada/flagpoling-canada-status-at-a-land-crossing.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/immigrate-to-canada/permit-vs-visa.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/immigrate-to-canada/canadian-immigration-government-processing-fees.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/immigrate-to-canada/language-test-for-immigrating-to-canada.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/immigrate-to-canada/canada-visitor-visa.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/immigrate-to-canada/pick-up-visa.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/immigrate-to-canada/canadian-immigration-business-plan.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/immigrate-to-canada/canada-visitor-visa</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/immigrate-to-canada.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/permanent-residence.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/sponsorship-2.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/sponsorship/inland-and-outland-spousal-sponsorship.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/sponsorship/spousal-and-common-law-partner-sponsorship.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/sponsorship/inland-and-outland-spousal-sponsorship</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/study.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/study</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/study/study-inside-canada.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/study/pr-through-education.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/study/canadas-list-of-designated-learning-institutions-dlis.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/study/study-inside-canada</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/study/pr-through-education</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/study/canadas-list-of-designated-learning-institutions-dlis</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/work.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/citizenship</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/citizenship/how-to-apply-for-citizenship.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/citizenship/apply-for-proof-of-citizenship.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/citizenship/citizenship-eligibility.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/citizenship/dual-citizenship.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/citizenship/apply-for-proof-of-citizenship</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/citizenship/dual-citizenship</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/citizenship/how-to-apply-for-citizenship</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/citizenship.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/settlement/finding-first-home-as-a-newcomer-to-canada.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/settlement/how-to-find-a-job.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/settlement/checklist-after-entering-canada.html</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/consultation</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/permanent-residence</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://sugimotovisa.com/sponsorship-2</loc>
-        <lastmod>2023-08-27</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
+
+<url>
+  <loc>https://sugimotovisa.com/</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/index.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/about.html</loc>
+  <lastmod>2023-09-01T19:51:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/contact.html</loc>
+  <lastmod>2023-09-01T19:51:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/blog.html</loc>
+  <lastmod>2023-09-01T19:51:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/consultation.html</loc>
+  <lastmod>2023-09-01T19:51:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/pr/investment-in-canada.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/pr/startup-visa.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/work/ict.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/work/significant-benefit-work-permit.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/work/c11-work-permit.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/work/imp.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/pr/self-employed.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/work/register-your-company-in-canada.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/work/buy-a-business.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/pr/entrepreneurship-canada-immigration.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/immigrate-to-canada/business-visitors.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/pr/canada-express-entry.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/immigrate-to-canada.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/permanent-residence.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/immigrate-to-canada/flagpoling-canada-status-at-a-land-crossing.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/immigrate-to-canada/gcms-notes.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/immigrate-to-canada/canadian-immigration-government-processing-fees.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/immigrate-to-canada/permit-vs-visa.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/immigrate-to-canada/language-test-for-immigrating-to-canada.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/pr/canada-express-entry/federal-skilled-worker.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/pr/canada-express-entry/canadian-experience-class.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/pr/canada-express-entry/federal-skilled-trades.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/pr/pnp.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/pr/pnp/bcpnp-skills-immigration.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/sponsorship-2.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/sponsorship/inland-and-outland-spousal-sponsorship.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/sponsorship/spousal-and-common-law-partner-sponsorship.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/sponsorship/parent-and-grandparent-sponsorship.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/immigrate-to-canada/canada-visitor-visa.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/immigrate-to-canada/pick-up-visa.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/study.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/study/pr-through-education.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/study/study-inside-canada.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/work/pgwp.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/study/canadas-list-of-designated-learning-institutions-dlis.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/work.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/work/iran-open-work-permit.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/work/NOC.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/work/lmia-based-work-permits.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/work/work-without-work-permit.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/work/imp-employer-compliance.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/citizenship.html</loc>
+  <lastmod>2023-09-01T19:51:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/citizenship/how-to-apply-for-citizenship.html</loc>
+  <lastmod>2023-09-01T19:51:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/citizenship/citizenship-eligibility.html</loc>
+  <lastmod>2023-09-01T19:51:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/citizenship/apply-for-proof-of-citizenship.html</loc>
+  <lastmod>2023-09-01T19:51:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/citizenship/dual-citizenship.html</loc>
+  <lastmod>2023-09-01T19:51:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/settlement/finding-first-home-as-a-newcomer-to-canada.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/settlement/how-to-find-a-job.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/settlement/checklist-after-entering-canada.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/settlement/cbsa-officer-questions-upon-arrival.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sugimotovisa.com/immigrate-to-canada/canadian-immigration-business-plan.html</loc>
+  <lastmod>2023-09-01T19:51:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
 </urlset>
