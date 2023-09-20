@@ -30,6 +30,11 @@ def process_html_files(directory):
                     # Iterate through the <link> tags and update the "rel" attribute
                     if link_tags["rel"] == ["canonical"]:
                         
+                        
+                        #if ends with "/" OR ".html" do not add ".html"
+                        if link_tags["href"].endswith("/") or link_tags["href"].endswith(".html"):
+                            continue
+                        
                         #add before and after to log_file_str
                         #change href to current value + ".html"
                         print("before:" + link_tags["href"])
